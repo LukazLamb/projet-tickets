@@ -4,7 +4,7 @@
 
 Développer une application web en PHP permettant aux utilisateurs de faire des demandes d'assistance (tickets) et aux techniciens de les gérer via une interface sécurisée.
 
-## Fonctionnalités (niveau 2)
+## Fonctionnalités
 
 - Page d’accueil.
 - Formulaire de demande d’assistance avec un menu déroulant pour catégoriser la demande.
@@ -26,12 +26,13 @@ Développer une application web en PHP permettant aux utilisateurs de faire des 
 ## Installation
 
 1. Cloner le dépôt :
-2. Configurer la base de données (importer le fichier `.sql` fourni).
-3. Modifier les informations de connexion à la base dans le fichier de configuration.
-4. Lancer le serveur local.
+2. sudo devant chaque commande dans le terminal ou changer les droits.
+3. Configurer la base de données (grace au fichier ma_bd.sql il suffit simplement de lancer un terminal et de recopier )
+4. Modifier les informations de connexion à la base dans le fichier de configuration.
+5. Lancer le serveur local (navigateur -> barre url -> localhost ).
 
 ## Auteur
 
-Projet réalisé par LAMBUSTA Lukaz Wellele Mathias Mbengue Assane dans le cadre d’un stage de BTS SIO SISR.
+Projet réalisé par LAMBUSTA Lukaz Wellele Mathias Mbengue Assane dans le cadre d’un projet pour le BTS SIO SISR.
 
 
